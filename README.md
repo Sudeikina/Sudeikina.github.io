@@ -1,2 +1,2 @@
-# Polina Sudeikina — QA Engineer
+# Polina Sudeikina
 https://sudeikina.github.io/
